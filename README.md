@@ -3,4 +3,9 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/105a2aa4584175e7ae57/maintainability)](https://codeclimate.com/github/kimostas/fullstack-javascript-project-44/maintainability)
 
+# Brain game Hexlet project 
+# Запуск игр
+## brain-even
 [![asciicast](https://asciinema.org/a/KW85vP1z8ulpJ8402uEB00QpQ.svg)](https://asciinema.org/a/KW85vP1z8ulpJ8402uEB00QpQ)
+## brain-calc
+[![asciicast](https://asciinema.org/a/SGknxwEYfWQ2cZ7KX7plm17OW.svg)](https://asciinema.org/a/SGknxwEYfWQ2cZ7KX7plm17OW)
