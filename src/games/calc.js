@@ -10,11 +10,11 @@ const calcGame = () => {
     const question = `${randomNumber1} ${randomSign} ${randomNumber2}`;
     let result = 0;
     if (randomSign === signs[0]) {
-        result = randomNumber1 + randomNumber2;
+      result = randomNumber1 + randomNumber2;
     } else if (randomSign === signs[1]) {
-        result = randomNumber1 - randomNumber2;
+      result = randomNumber1 - randomNumber2;
     } else {
-        result = randomNumber1 * randomNumber2;
+      result = randomNumber1 * randomNumber2;
     }
     result = result.toString();
 
