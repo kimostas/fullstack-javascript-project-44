@@ -12,10 +12,10 @@ const progressionGame = () => {
 
         let nextNumber = randomInitialNumber + randomStepNumber;
         progression.push(randomInitialNumber, nextNumber);
-            for (let i = 1; i < randomLengthFromRange - 1; i += 1) {
-                nextNumber += randomStepNumber;
-                progression.push(nextNumber);
-            }
+        for (let i = 1; i < randomLengthFromRange - 1; i += 1) {
+            nextNumber += randomStepNumber;
+            progression.push(nextNumber);
+        }
 
         const lastIndexOfProgression = progression.length - 1;
         const randomNumberFromArr = getRandomRange(0, lastIndexOfProgression);
