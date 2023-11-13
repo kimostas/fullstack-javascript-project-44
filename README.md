@@ -3,3 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/105a2aa4584175e7ae57/maintainability)](https://codeclimate.com/github/kimostas/fullstack-javascript-project-44/maintainability)
 
+[![asciicast](https://asciinema.org/a/KW85vP1z8ulpJ8402uEB00QpQ.svg)](https://asciinema.org/a/KW85vP1z8ulpJ8402uEB00QpQ)
